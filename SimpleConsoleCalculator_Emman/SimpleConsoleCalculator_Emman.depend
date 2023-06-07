@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686156214 source:d:\programming projects\codeblocks files\projects\c++\simpleconsolecalculator_emman\main.cpp
+	<iostream>
+	<conio.h>
+
