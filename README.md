@@ -13,12 +13,10 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femmanpbarrameda%2FSimple-Calculator_Cpp-Console&count_bg=%233D7CC8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true"/>
   
   <!-- follow -->
-  <img href="https://github.com/emmanpbarrameda" target="_blank" src='https://img.shields.io/github/followers/emmanpbarrameda.svg?style=social&label=Follow&maxAge=2592000' />      
+  <img src='https://img.shields.io/github/followers/emmanpbarrameda.svg?style=social&label=Follow&maxAge=2592000' />      
   
   <!-- license -->
   <img src='https://img.shields.io/github/license/emmanpbarrameda/Simple-Calculator_Cpp-Console.svg?style=flat-square' />    
-  
-
   
 </p>
 
@@ -124,6 +122,7 @@ In short, the MIT License states:
       </a>
       <br />
       <p>Check out <a href="https://emmanpbarrameda.github.io" target="_blank">my portfolio</a> to learn more about me!</p>
+      <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers" /></a>
     </td>
     <td align="center">
       <a href="https://emmanpbarrameda.github.io">
